@@ -41,6 +41,7 @@
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
 [![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
 [![EJS](https://img.shields.io/badge/-EJS-5A5A5A?style=flat&logoColor=white&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
 
