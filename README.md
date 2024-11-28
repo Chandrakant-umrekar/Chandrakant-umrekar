@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :technologist: **Currently working on** `React` **&** `Full stack projects`
+- :technologist: **Currently working at **Founders Gang**`
 - - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ChandrakantUmrekar&amp;color=EA4335&amp;style=flat-square)](mailto:umrekarchandrakant@gmail.com)
 - :nerd_face: Always believe `"You are what you loved"`
 
