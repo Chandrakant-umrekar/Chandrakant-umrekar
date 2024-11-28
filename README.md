@@ -44,6 +44,8 @@
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
 [![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
 [![EJS](https://img.shields.io/badge/-EJS-5A5A5A?style=flat&logoColor=white&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
+[![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat&logo=appwrite&logoColor=white&link=https://github.com/Chandrakant-umrekar)](https://github.com/Chandrakant-umrekar)
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
